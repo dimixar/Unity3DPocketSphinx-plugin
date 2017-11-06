@@ -6,4 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/JavaScriptExample.unity
+    path: Assets/PocketSphinxDemo/AndroidSpeechRecogDemo.unity
+    guid: 37b16abf0ca835d419689a13219c036a
