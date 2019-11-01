@@ -1,4 +1,5 @@
 # Unity3DPocketSphinx-plugin (WIP)
+# Archiving it because I don't have time to support it.
 This is a plugin for Unity3D that gives the possibility to run PocketSphinx engine through Unity3D Game Engine. More on PocketSphinx can be found here: https://github.com/cmusphinx/pocketsphinx
 
 The demo is based on pocketsphinx-android-demo: https://github.com/cmusphinx/pocketsphinx-android-demo
